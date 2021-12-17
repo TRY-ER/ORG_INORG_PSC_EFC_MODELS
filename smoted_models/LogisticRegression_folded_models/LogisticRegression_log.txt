@@ -1,0 +1,7 @@
+LOG FOR :LogisticRegression 
+BEST PARAMETERS :: {'lr_pen': 'l1', 'lr_C': 1.0, 'lr_solver': 'lbfgs'}
+
+ MODEL RESULTS
+AVERAGE ACCURACY : 0.868888888888889
+MAX ACCURACY : 1.0
+MIN ACCURACY : 0.7

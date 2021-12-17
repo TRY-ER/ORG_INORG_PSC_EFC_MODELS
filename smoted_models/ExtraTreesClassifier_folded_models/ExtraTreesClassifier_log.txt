@@ -1,0 +1,7 @@
+LOG FOR :ExtraTreesClassifier 
+BEST PARAMETERS :: {'et_est': 200, 'et_cl_wt': 'balanced'}
+
+ MODEL RESULTS
+AVERAGE ACCURACY : 0.818888888888889
+MAX ACCURACY : 1.0
+MIN ACCURACY : 0.6

@@ -1,0 +1,7 @@
+LOG FOR :KNeighborsClassifier 
+BEST PARAMETERS :: {'k_nei': 4, 'k_wei': 'distance', 'K_algo': 'auto', 'K_p': 1}
+
+ MODEL RESULTS
+AVERAGE ACCURACY : 0.8088888888888889
+MAX ACCURACY : 1.0
+MIN ACCURACY : 0.7

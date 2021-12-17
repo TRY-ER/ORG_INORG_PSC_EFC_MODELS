@@ -1,0 +1,7 @@
+LOG FOR :DecisionTreeClassifier 
+BEST PARAMETERS :: {'DT_cri': 'gini', 'DT_spl': 'best'}
+
+ MODEL RESULTS
+AVERAGE ACCURACY : 0.7577777777777778
+MAX ACCURACY : 0.9
+MIN ACCURACY : 0.6

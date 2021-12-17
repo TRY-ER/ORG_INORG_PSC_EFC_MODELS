@@ -1,0 +1,8 @@
+model_name,norm_acc,smote_acc
+dtc,0.68,0.76
+etc,0.75,0.82
+knc,0.6,0.81
+lr,0.84,0.86
+rfc,0.75,0.89
+svc,0.82,0.89
+xgbc,0.77,0.87

@@ -1,0 +1,7 @@
+LOG FOR :SVC 
+BEST PARAMETERS :: {'SVC_ker': 'linear', 'SVC_gamma': 'scale'}
+
+ MODEL RESULTS
+AVERAGE ACCURACY : 0.89
+MAX ACCURACY : 1.0
+MIN ACCURACY : 0.7

@@ -1,0 +1,7 @@
+LOG FOR :XGBClassifier 
+BEST PARAMETERS :: {'XGB_est': 200, 'XGB_lr': 0.1, 'XGB_boost': 'gblinear', 'XGB_tree': 'exact'}
+
+ MODEL RESULTS
+AVERAGE ACCURACY : 0.868888888888889
+MAX ACCURACY : 1.0
+MIN ACCURACY : 0.7

@@ -1,0 +1,7 @@
+LOG FOR :RandomForestClassifier 
+BEST PARAMETERS :: {'rf_est': 100, 'rf_crt': 'entropy'}
+
+ MODEL RESULTS
+AVERAGE ACCURACY : 0.888888888888889
+MAX ACCURACY : 1.0
+MIN ACCURACY : 0.7
