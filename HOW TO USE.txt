@@ -1,0 +1,9 @@
+In this project the code is served as jupyter notebook with python 3 version.
+Models are saved in 4 catagores i.e. categorical models (cat_models dir),
+final models (final_models dir), main models (main_models dir), synthetic data
+used models (smoted_models). All models are used for comparision purpose for the 
+paper published. 
+
+There will be a instruction.txt file inside each of the model directories so that 
+you can know categorical parameters that are used during the label encoding and 
+using standard scaler.
