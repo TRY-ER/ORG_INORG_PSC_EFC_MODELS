@@ -1,9 +1,13 @@
 In this project the code is served as jupyter notebook with python 3 version.
 Models are saved in 4 catagores i.e. categorical models (cat_models dir),
 final models (final_models dir), main models (main_models dir), synthetic data
-used models (smoted_models). All models are used for comparision purpose for the 
-paper published. 
+used models (smoted_models).
 
-There will be a instruction.txt file inside each of the model directories so that 
-you can know categorical parameters that are used during the label encoding and 
-using standard scaler.
+
+As it is not used for publishing any research paper, the usable parameters are 
+not described or shown properly. So the models cannot be used by normal parameters
+as it has been label_encoded and scaled for insertion into the model. The trainable
+interface is not developed as the main model was for demonstration purposes and 
+cross-validation setup. 
+
+
